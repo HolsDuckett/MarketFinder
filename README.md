@@ -6,7 +6,7 @@
 
 ## Project
 
-Born out of frustration with dwindling footfall in every market she attended and the endless scrolling through social media channels to find opening times to see two different answers on two different platforms. Our founder Holly had an epiphany.
+Born out of frustration with dwindling footfall in every market she attended. Our founder Holly had an epiphany.
 "Working as a street food vendor, there was no where out there to have markets promoted with up to date and accurate information, with images."
 That's when Scrummy ascended into market folklore and no longer will there be a weekend spent Scrummyless.
 
