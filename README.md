@@ -12,17 +12,15 @@
 
 ## Project
 
-Born out of frustration with dwindling footfall in every market she attended. Our founder Holly had an epiphany.
-"Working as a street food vendor, there was no where out there to have markets promoted with up to date and accurate information, with images."
-That's when Scrummy ascended into market folklore and no longer will there be a weekend spent Scrummyless.
+Born out of frustration with dwindling footfall in every market she attended. Our founder Holly had an epiphany. "Working as a street food vendor, there was nowhere out there to have markets promoted with up to date and accurate information, with images." That's when Scrummy ascended into market folklore and no longer will there be a weekend spent Scrummyless.
 
 The goal of this mobile app was to create a platform that holds all the necessary information in one place for a user to find a Street Food Market.
 
-The app loads a map centred on the users current location with local Street Food markets marked on the map. You can click on the markers to see which market they are.
+The app loads a map centred on the user's current location with local Street Food markets marked on the map. You can click on the markers to see which market they are.
 
 The scroll list, ordered closest market at the top, displays close markets and their walking distance in minutes.
 
-Each market has details page which includes: opening times, description, pictures, map with with the quickest walking route mapped out from the current users loaction to the selected market and clickable icons to the markets social media platforms.
+Each market has a detailed page which includes: opening times, description, pictures, the quickest walking route mapped out from the current user's location to the selected market and clickable icons to the markets social media platforms.
 
 There is also a search bar, so if a user has a market in mind they can search the name to bring up the details page. From there they can see whether the market is open and the quickest route from their location.
 
